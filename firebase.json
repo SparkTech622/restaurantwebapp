@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "deliciousbites",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
